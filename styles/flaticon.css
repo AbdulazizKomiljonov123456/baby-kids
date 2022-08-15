@@ -1,0 +1,137 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?7f66e3932c47c14741d626c9823740fd") format("truetype"),
+url("./flaticon.woff?7f66e3932c47c14741d626c9823740fd") format("woff"),
+url("./flaticon.woff2?7f66e3932c47c14741d626c9823740fd") format("woff2"),
+url("./flaticon.eot?7f66e3932c47c14741d626c9823740fd#iefix") format("embedded-opentype"),
+url("./flaticon.svg?7f66e3932c47c14741d626c9823740fd#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-baby-shampoo-container:before {
+    content: "\f101";
+}
+.flaticon-rattle:before {
+    content: "\f102";
+}
+.flaticon-rocking-horse:before {
+    content: "\f103";
+}
+.flaticon-crayon:before {
+    content: "\f104";
+}
+.flaticon-baby-carrier:before {
+    content: "\f105";
+}
+.flaticon-baby-outfit-with-cartoon-design:before {
+    content: "\f106";
+}
+.flaticon-baby-clothes:before {
+    content: "\f107";
+}
+.flaticon-cart:before {
+    content: "\f108";
+}
+.flaticon-baby-cloth:before {
+    content: "\f109";
+}
+.flaticon-baby-socks:before {
+    content: "\f10a";
+}
+.flaticon-baby-black-stroller-transport:before {
+    content: "\f10b";
+}
+.flaticon-cradle:before {
+    content: "\f10c";
+}
+.flaticon-balloons:before {
+    content: "\f10d";
+}
+.flaticon-cup:before {
+    content: "\f10e";
+}
+.flaticon-cloth-diaper-silhouette:before {
+    content: "\f10f";
+}
+.flaticon-bathtub:before {
+    content: "\f110";
+}
+.flaticon-car:before {
+    content: "\f111";
+}
+.flaticon-baby-bottle:before {
+    content: "\f112";
+}
+.flaticon-bunny-silhouette:before {
+    content: "\f113";
+}
+.flaticon-cubes:before {
+    content: "\f114";
+}
+.flaticon-pinwheel:before {
+    content: "\f115";
+}
+.flaticon-clothes:before {
+    content: "\f116";
+}
+.flaticon-baby-scooter-silhouette:before {
+    content: "\f117";
+}
+.flaticon-fal fa-bone :before {
+    content: "\f118";
+}
+.flaticon-magic-wand:before {
+    content: "\f119";
+}
+.flaticon-baby-stroller:before {
+    content: "\f11a";
+}
+.flaticon-feeding-bottle:before {
+    content: "\f11b";
+}
+.flaticon-ball:before {
+    content: "\f11c";
+}
+.flaticon-pacifier:before {
+    content: "\f11d";
+}
+.flaticon-elephant:before {
+    content: "\f11e";
+}
+.flaticon-scooter:before {
+    content: "\f11f";
+}
+.flaticon-car-1:before {
+    content: "\f120";
+}
+.flaticon-footprints:before {
+    content: "\f121";
+}
+.flaticon-bear:before {
+    content: "\f122";
+}
+.flaticon-baby-clothes-1:before {
+    content: "\f123";
+}
+.flaticon-keys:before {
+    content: "\f124";
+}
+.flaticon-telephone-call:before {
+    content: "\f125";
+}
+.flaticon-email:before {
+    content: "\f126";
+}
+.flaticon-location:before {
+    content: "\f127";
+}
